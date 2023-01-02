@@ -1,4 +1,4 @@
 login as admin:
 
-username : kwibuka
+username : kwibuka && 
 password : solidality
